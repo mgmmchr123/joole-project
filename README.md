@@ -2,6 +2,7 @@
 Group project for the Joole Spring assignment
 
 Partners:
+
 Sheheryar Mahmood
 
 Tiance Zhang
